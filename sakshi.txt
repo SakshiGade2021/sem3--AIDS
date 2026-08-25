@@ -1,0 +1,19 @@
+6 ?- ['C:/Users/admin/Downloads/sakshi1782026.pl'].
+true.
+
+7 ?- father(X, amit).
+X = rajesh .
+
+8 ?- male(amit).
+true.
+
+9 ?- parent(X,Y).
+X = rajesh,
+Y = amit .
+
+10 ?- parent(P,Y).
+P = rajesh,
+Y = amit .
+
+1
+
